@@ -9,3 +9,7 @@ the actually art is in 5 kinds:
 - stars; (estrelas)
 - tam;   (tamanho)
 - ico;   (icone)
+
+## updates:
+- updates the size on your own as many as you want.
+- p.s.: this code dont have a SSL certificate
